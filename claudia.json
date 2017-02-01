@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "chat-bot-executor",
+    "name": "chat-bot",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "38m3njfw8c",
+    "module": "index"
+  }
+}
